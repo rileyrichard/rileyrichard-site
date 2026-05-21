@@ -5,13 +5,14 @@ const Contact: React.FC = () => {
     <div>
       <p>
         If you wish to contact me, my email is{" "}
-        <a className="email" href="mailto:riley@blueberry.dev">
-          riley@blueberry.dev
-        </a>
+        <a className="email" href="mailto:me@rileyrichard.com">
+          me@rileyrichard.com
+        </a> and my business number is{" "}
+        <a className="email" href="tel:5087743994">508-774-3994</a>
       </p>
       <p>
         My timezone is Eastern Standard Time. I usually respond to emails during
-        normal working hours, but I occasionally code late at night and I will
+        normal working hours, but I occasionally code late at night and can
         respond then.
       </p>
       <p>

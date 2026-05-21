@@ -245,21 +245,23 @@ details[open] > summary::before {
 .email:hover {
   color: #ffc61b;
 }
-.emailHeader {
-  font-size: 1.1em;
+.headerContainer {
+  font-size: 0.9em;
   color: #888888;
   padding: 0px;
   margin: 0;
 }
 
-.emailHeader a {
+/*
+.headerContainers a{
   font-size: 1em;
   color: #888888;
   padding: 0px;
   margin: 0;
 }
+*/
 
-.emailHeader:hover {
+.headerContainer:hover{
   color: #ffc61b;
 }
 
